@@ -1,4 +1,4 @@
-# 🚀 Backend Development with Node.js & Express (Season 2)
+# Backend Development with Node.js & Express (Season 2)
 
 This repository contains **Season 2** of my backend development journey using **Node.js, Express.js, MongoDB, and React (UI)**.  
 The project gradually evolves from backend fundamentals to a **full-stack DevTinder-style application**.
