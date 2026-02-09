@@ -1,5 +1,4 @@
 # DevTinder Project - Data Sanitization and Schema Validations in Mongoose
-
 ## Code Demonstration Link
 
 * [DevTinder Backend Repository]link:-
